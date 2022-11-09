@@ -15,7 +15,7 @@ func main() {
 
 	// second way of declaring
 	a := 10
-	myPointer1 := &a
+	myPointer1 := &a //givin referecnce of a
 
 	myPointer2 := &myPointer1
 
